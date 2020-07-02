@@ -1,0 +1,31 @@
+[
+  {
+    "Name" : "Brent Ozar YouTube",
+    "Url" : "https://www.youtube.com/user/BrentOzar"
+  }
+ ,{
+    "Name" : "Erik Darling’s YouTube",
+    "Url" : "https://www.youtube.com/channel/UCGKoa4FuG7kI3rKnzhgGPeQ/videos"
+  }
+,{
+    "Name" : "Guy in a Cube",
+    "Url" : "https://guyinacube.com/videos/"
+  }
+,{
+    "Name" : "Redgate University",
+    "Url" : "https://www.red-gate.com/hub/university/"
+  }
+,{
+    "Name" : "Redgate’s online events",
+    "Url" : "https://www.red-gate.com/hub/events/online-events/"
+  }
+,{
+    "Name" : "SentryOne Webinars",
+    "Url" : "https://www.sentryone.com/webinar-library"
+  }
+,{
+    "Name" : "Kendra Little Courses",
+    "Url" : "https://littlekendra.com/"
+  }
+
+]
